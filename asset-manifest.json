@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Product-Inventory-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/Product-Inventory-react/static/js/main.41b467b7.chunk.js",
+    "main.js.map": "/Product-Inventory-react/static/js/main.41b467b7.chunk.js.map",
+    "runtime-main.js": "/Product-Inventory-react/static/js/runtime-main.8f137a55.js",
+    "runtime-main.js.map": "/Product-Inventory-react/static/js/runtime-main.8f137a55.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Product-Inventory-react/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.92dbfd6b.chunk.js": "/Product-Inventory-react/static/js/2.92dbfd6b.chunk.js",
+    "static/js/2.92dbfd6b.chunk.js.map": "/Product-Inventory-react/static/js/2.92dbfd6b.chunk.js.map",
+    "index.html": "/Product-Inventory-react/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Product-Inventory-react/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/Product-Inventory-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.92dbfd6b.chunk.js.LICENSE.txt": "/Product-Inventory-react/static/js/2.92dbfd6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f137a55.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.92dbfd6b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.41b467b7.chunk.js"
+  ]
+}
